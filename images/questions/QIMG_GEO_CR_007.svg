@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" width="400" height="260" font-family="Georgia, 'Times New Roman', serif">
+  <!-- Triangle ABC -->
+  <polygon points="200,30 60,220 340,220" fill="none" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Cevians (medians) -->
+  <line x1="200" y1="30" x2="200" y2="220" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="60" y1="220" x2="270" y2="125" stroke="#1a1a1a" stroke-width="1.5"/>
+  <line x1="340" y1="220" x2="130" y2="125" stroke="#1a1a1a" stroke-width="1.5"/>
+
+  <!-- Points -->
+  <circle cx="200" cy="30" r="2.5" fill="#1a1a1a"/>
+  <circle cx="60" cy="220" r="2.5" fill="#1a1a1a"/>
+  <circle cx="340" cy="220" r="2.5" fill="#1a1a1a"/>
+  <circle cx="200" cy="220" r="2.5" fill="#1a1a1a"/>
+  <circle cx="270" cy="125" r="2.5" fill="#1a1a1a"/>
+  <circle cx="130" cy="125" r="2.5" fill="#1a1a1a"/>
+  <circle cx="200" cy="156.67" r="2.5" fill="#1a1a1a"/>
+
+  <!-- Labels -->
+  <text x="200" y="20" text-anchor="middle" font-size="18">A</text>
+  <text x="42" y="228" text-anchor="middle" font-size="18">B</text>
+  <text x="358" y="228" text-anchor="middle" font-size="18">C</text>
+  <text x="200" y="240" text-anchor="middle" font-size="18">D</text>
+  <text x="286" y="120" text-anchor="middle" font-size="18">E</text>
+  <text x="114" y="120" text-anchor="middle" font-size="18">F</text>
+  <text x="212" y="150" text-anchor="middle" font-size="18">G</text>
+</svg>
